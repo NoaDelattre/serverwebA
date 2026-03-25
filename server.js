@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-const port = 3002; // Le port sur lequel votre serveur écoutera
+const port = 3006; // Le port sur lequel votre serveur écoutera
 
 // Route d'exemple
 app.get('/', (req, res) => {
